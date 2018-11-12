@@ -21,6 +21,8 @@
 
 __There are two possible grades for this assignment: P and F (Pass, Fail)__
 
-## Grade: __To Be Added__
+## Grade: F
+- Using CSS Animations(`transform: rotate()`) was not allowed.
+- Follow Codestyle `startfunction` should have been named: `startFunction` ([For Reference](https://github.com/airbnb/javascript))
 
 \* DO NOT CHANGE THIS DOCUMENT, the reviewer will check the homework and add the grade
